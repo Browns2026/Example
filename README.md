@@ -38,4 +38,12 @@ Sample_HowToUseGithub
 4. Images
     - External
         - ![GitHub Icon.] ![alt text](https://upload.wikimedia.org/wikipedia/en/0/05/Silksong.jpg)
-        - ![]
+        - ![GitHuh Logo.](./Images/Logo.jpg)
+
+5. Table
+    | ID | Name |
+    | --- | --- |
+    | 1 | Unity |
+    | 2 | C# |
+    | 3 | Game|
+
